@@ -11,7 +11,6 @@ from accelerate import Accelerator
 import bitsandbytes as bnb
 from tap import Tap
 
-# データセットをhuggingfaceから読み込むようにする
 class Args(Tap):
     model_name_or_path: str = ""
     dataset_name: str = "cl-nagoya/Simplifyingmt"
