@@ -4,7 +4,7 @@ This is the official repo for the ACL Findings 2024 paper [Simplifying Translati
 
 ## Description
 Our research uses Simple-English-Wikipedia for construct simplification model.
-We can simplify translations for specific age children, considering Age of Aquisition(AoA) when simplification.
+We can simplify translations for specific age children, considering Age of Acquisition(AoA) when simplification.
 
 
 ## Instrallation & Preparation
